@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{275E639D-1DE8-4ED2-B3B7-23917FE4DFDA}|tpmodul8_103022300005\\tpmodul8_103022300005.csproj|c:\\users\\huawei\\documents\\semester 4\\praktikum konstruksi pl\\mod8\\tpmodul8_103022300005\\tpmodul8_103022300005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{275E639D-1DE8-4ED2-B3B7-23917FE4DFDA}|tpmodul8_103022300005\\tpmodul8_103022300005.csproj|solutionrelative:tpmodul8_103022300005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275E639D-1DE8-4ED2-B3B7-23917FE4DFDA}|tpmodul8_103022300005\\tpmodul8_103022300005.csproj|c:\\users\\huawei\\documents\\semester 4\\praktikum konstruksi pl\\mod8\\tpmodul8_103022300005\\tpmodul8_103022300005\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{275E639D-1DE8-4ED2-B3B7-23917FE4DFDA}|tpmodul8_103022300005\\tpmodul8_103022300005.csproj|solutionrelative:tpmodul8_103022300005\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275E639D-1DE8-4ED2-B3B7-23917FE4DFDA}|tpmodul8_103022300005\\tpmodul8_103022300005.csproj|c:\\users\\huawei\\documents\\semester 4\\praktikum konstruksi pl\\mod8\\tpmodul8_103022300005\\tpmodul8_103022300005\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275E639D-1DE8-4ED2-B3B7-23917FE4DFDA}|tpmodul8_103022300005\\tpmodul8_103022300005.csproj|solutionrelative:tpmodul8_103022300005\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\MOD8\\tpmodul8_103022300005\\tpmodul8_103022300005\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_103022300005\\CovidConfig.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\MOD8\\tpmodul8_103022300005\\tpmodul8_103022300005\\CovidConfig.cs",
+              "RelativeToolTip": "tpmodul8_103022300005\\CovidConfig.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:47:30.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\MOD8\\tpmodul8_103022300005\\tpmodul8_103022300005\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmodul8_103022300005\\covid_config.json",
+              "ToolTip": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\MOD8\\tpmodul8_103022300005\\tpmodul8_103022300005\\covid_config.json",
+              "RelativeToolTip": "tpmodul8_103022300005\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T17:46:06.974Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "tpmodul8_103022300005\\Program.cs",
               "ToolTip": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\MOD8\\tpmodul8_103022300005\\tpmodul8_103022300005\\Program.cs",
               "RelativeToolTip": "tpmodul8_103022300005\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T17:25:07.921Z",
               "EditorCaption": ""
